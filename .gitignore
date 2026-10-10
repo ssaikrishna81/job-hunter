@@ -1,0 +1,6 @@
+jobs.xlsx
+jobs_new.xlsx
+backups/
+run.log
+~$*
+__pycache__/
